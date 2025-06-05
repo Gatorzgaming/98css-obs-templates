@@ -1,12 +1,30 @@
 <script lang="ts">
-	let text = $state(` •  Absolutely no racism, homophobia, transphobia, etc ♡
+	import { browser } from "$app/environment";
+	import { onMount } from "svelte";
+
+	const LOCALSTORAGE_KEY = "notepad.text"
+
+	const DEFAULT_TEXT = ` •  Absolutely no racism, homophobia, transphobia, etc ♡
  •  No major traumadumping ♡
  •  No backseating unless I ask for help ♡
  •  No spamming ♡
  •  No fancy texts (𝔢𝔵𝔞𝔪𝔭𝔩𝔢, 𝓮𝔁𝓪𝓶𝓹𝓵𝓮) ♡
  •  I am not, and cannot be, your therapist. ♡
  •  Follow Twitch TOS at all times ♡
- •  And last but not least, have fun and be silly ♡`)
+ •  And last but not least, have fun and be silly ♡`
+
+ let text = $state(DEFAULT_TEXT)
+
+	$effect(() => {
+		if (browser && text !== DEFAULT_TEXT) {
+			window.localStorage.setItem(LOCALSTORAGE_KEY, text)
+		}
+	})
+
+	onMount(() => {
+		const storedText = window.localStorage.getItem(LOCALSTORAGE_KEY)
+		if (storedText) text = storedText
+	})
 </script>
 
 <link rel="stylesheet" href="https://jdan.github.io/98.css/98.css" />
