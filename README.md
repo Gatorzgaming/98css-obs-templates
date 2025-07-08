@@ -3,7 +3,7 @@
 ### This project contains multiple windows 98 twitch overlays designed for use with the OBS Browser window system. 
 
 ![Screenshot 2025-07-08 16-33-47](https://github.com/user-attachments/assets/0cd449c5-32d0-46e2-aeff-51e4fc19cbfd)
-
+*Follower count/goal and Windbox shown above are currently in the repository, the desktop icons and taskbar are a seperate work in progress side project. Not shown in the image is the notepad overlay.
 
 
 ## Setup
