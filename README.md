@@ -2,7 +2,8 @@
 
 ### This project contains multiple windows 98 twitch overlays designed for use with the OBS Browser window system. 
 
-![Screenshot 2025-07-05 00-18-27](https://github.com/user-attachments/assets/48700791-df8f-4cb0-898c-fcbfd496d6a1)
+![Screenshot 2025-07-08 16-33-47](https://github.com/user-attachments/assets/0cd449c5-32d0-46e2-aeff-51e4fc19cbfd)
+
 
 
 ## Setup
