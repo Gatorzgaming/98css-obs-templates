@@ -13,7 +13,7 @@ Install from the command line
 ```ps
 docker pull ghcr.io/gatorzgaming/98css-obs-templates:latest
 ```
-Github Releases are avaible [here!](https://github.com/Gatorzgaming/98css-obs-templates/pkgs/container/98css-obs-templates)
+Github Releases are currently unavaible, however you'll be able to find them [here](https://github.com/gatorzgaming/98css-obs-templates/releases) once they are setup. 
 
 
 ## Twitch Intergration 
@@ -23,7 +23,7 @@ More in-depth instructions for these step are planned to be added to the documen
 
 ## Documentation
 
-Documentation for this project is *planned*, you can help by submmiting issues and pull request on the [Github Page]( https://github.com/Gatorzgaming/98css-obs-templates/edit/main/README.md) for this project. 
+Documentation for this project is *planned*, you can help by submmiting issues and pull request on the [Github Page](https://github.com/Gatorzgaming/98css-obs-templates/) for this project. 
 
 ## Contributing
 
@@ -35,6 +35,8 @@ More info on setting up Svelte is avaible on the [Offical Documentation](https:/
 
 
 ## Instructions for Svelte, a framework this project uses. 
+
+### ⚠️ These instructions are currently a placeholder until more detailed ones can be made but they should help get you going in the meantime. ⚠️
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
