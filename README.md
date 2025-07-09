@@ -1,9 +1,9 @@
-# Open Source 98.css Based Browser Source Twitch Overlays 
+# Open Source 98.css Based Browser Source OBS / Twitch Overlays 
 
-### This project contains multiple windows 98 twitch overlays designed for use with the OBS Browser window system. 
+### This project contains multiple Windows 98 OBS / Twitch overlays designed for use with the OBS Browser window system. 
 
-![Screenshot 2025-07-08 16-33-47](https://github.com/user-attachments/assets/0cd449c5-32d0-46e2-aeff-51e4fc19cbfd)
-*Follower count/goal and Windbox shown above are currently in the repository, the desktop icons and taskbar are a seperate work in progress side project. Not shown in the image is the notepad overlay.
+![Screenshot 2025-07-08 21-42-28](https://github.com/user-attachments/assets/295d9b97-da18-4965-b528-28c182a6d9cf)
+*Follower count/goal and WindowBox shown above are currently in the repository, the desktop icons and taskbar are a seperate work in progress side project. Not shown in the image is the notepad overlay.
 
 
 ## Setup
