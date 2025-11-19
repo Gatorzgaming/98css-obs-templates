@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://jdan.github.io/98.css/98.css" />
-<div class="window" style="width: 1334px height: 720px">
+<div class="window" style="width: 100% height: 100%">
 	<div class="title-bar">
 		<div class="title-bar-text">HALF-LIFE 2 - Direct3D 9</div>
 		<div class="title-bar-controls">
