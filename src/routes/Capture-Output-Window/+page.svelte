@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://jdan.github.io/98.css/98.css" />
 
-<div class="window full-viewport">
+<div class="window">
 	<div class="title-bar">
 		<div class="title-bar-text">HALF-LIFE 2 - Direct3D 9</div>
 		<div class="title-bar-controls">
@@ -31,12 +31,7 @@
 	}
 
 	/* Make 98.css window take the full viewport and never cause scrollbars */
-	.full-viewport {
-		box-sizing: border-box;
-		width: 100vw;
-		height: 100vh;
-		max-width: 100vw;
-		max-height: 100vh;
+	.window {
 		display: flex;
 		flex-direction: column;
 	}
