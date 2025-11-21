@@ -28,7 +28,6 @@
 		margin: 0;
 		/* remove page scrollbars */
 		overflow: hidden;
-		background: #008080; /* a fallback background so the window contrast is visible */
 	}
 
 	/* Make 98.css window take the full viewport and never cause scrollbars */
