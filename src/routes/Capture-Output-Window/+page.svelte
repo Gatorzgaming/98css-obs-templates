@@ -9,11 +9,7 @@
 		</div>
 	</div>
 	<div class="window-body">
-		<img
-			src="https://cdn.glitch.global/c23bed96-f244-4f17-9554-833bb6fa41b8/Untitled.png?v=1736024449377"
-			width="1000"
-			height="600"
-		/>
+		
 		<p>
 			If you can read this something is broken
 			<b> </b>
